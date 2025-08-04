@@ -1,2 +1,2 @@
 # scitos-theadventuregame
-thanks to someone who made this original game, now i have 161 applicants who wanna join my extracurricular
+game dibuat oleh Koordinator Divisi Programming & Jaringan SCI-TOS Periode 2024/2025. Rama
